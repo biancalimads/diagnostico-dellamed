@@ -1,0 +1,22 @@
+Diagnóstico — Dellamed
+Diagnóstico dos produtos Dellamed nos principais marketplaces do Brasil, como: Mercado Livre, Shopee, Amazon, Magazine Luiza.
+KPIS indicativos.
+Preço base e produtos base: loja oficial Dellamed do Mercado Livre https://www.mercadolivre.com.br/loja/dellamed#origin=search_intervention&tracking_id=3519ea3a-a03c-4acb-9d78-f1169bc1f7f9
+Sellers capturados nos marketplaces
+Produtos monitorados  nos marketplaces
+Sellers Mais Agressivos  nos marketplaces
+Sellers Mais Relevantes  nos marketplaces
+SKUs Mais Atacados  nos marketplaces
+Nível de Relevância
+O quão digitalizado e relevante o seller é nos marketplaces — reputação, avaliações, volume de vendas e presença no seu catálogo. Quanto maior, mais peso ele tem na disputa.
+Nível de Agressividade
+O tamanho da ameaça — a gravidade e a frequência das violações de preço e quanto do Buy Box o seller toma da marca.
+
+Listagem em primeira visualização sempre com os dez primeiros. Possibilidade de visualizar relatório completo. Clicar e ter mais detalhes e links de acesso. 
+Exportar base em Excel.
+
+Isso tudo em uma guia chamada Dellamed
+Em outra guia chamada Concorrentes uma avaliação de produtos das mesmas categorias com as marcas concorrentes.
+Pontos fortes e fracos. Insights relevantes para o setor comercial. 
+Faixa de preços, entre outros.
+E uma aba chamada Simulador: nela deve ter a opção de simular um produto, os custos fixos e variáveis de cada marketplace, ter o melhor preço de venda, margem, lucro, entre outros
